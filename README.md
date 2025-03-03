@@ -15,8 +15,10 @@ AI Navigo는 **인공지능**을 기반으로 **사용자의 여행 취향과 �
 ---
 
 ## 📂 GitHub & 발표 자료
-- **GitHub Repository**: [AI_NaviGo](https://github.com/KIMMZN/AI_NaviGo)  
+- **GitHub Repository**: [AI_NaviGo](https://github.com/KIMMZN/AI_NaviGo)
+- **GitHub Repository_Python**: [AI_NaviGo_py]( https://github.com/KIMMZN/AI_NaviGo_py)  
 - **발표 자료 (PPT)**: [미리캔버스 링크](https://www.miricanvas.com/v/14ah40b)
+  
 
 ---
 
