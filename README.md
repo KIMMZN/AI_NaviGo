@@ -2,7 +2,7 @@
  
   <img src="https://github.com/user-attachments/assets/cb70bc48-5f14-4576-9e90-7730f6548cf7" alt="image" width="300">
   <h2>AI Navigo (AI 기반 여행 일정 추천 서비스)</h2>
-  <strong>프로젝트 주제: AI Navigo (2024.12.23 ~ 2025.02.27)</strong>
+  <strong>"한번의 클릭으로 여행 일정 생성"</strong>
   <hr>
 </div>
 
